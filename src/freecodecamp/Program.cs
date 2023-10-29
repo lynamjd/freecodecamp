@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using StudentGradeMachine;
+
+public class Program
+{
+    public static void Main()
+    {
+        Console.WriteLine("Starting console app..");
+
+        Grades.Run();
+    }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\freecodecamp.csproj": {}
+    "C:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\freecodecamp.csproj": {}
   },
   "projects": {
-    "c:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\freecodecamp.csproj": {
+    "C:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\freecodecamp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\freecodecamp.csproj",
+        "projectUniqueName": "C:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\freecodecamp.csproj",
         "projectName": "freecodecamp",
-        "projectPath": "c:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\freecodecamp.csproj",
+        "projectPath": "C:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\freecodecamp.csproj",
         "packagesPath": "C:\\Users\\Dad\\.nuget\\packages\\",
-        "outputPath": "c:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\obj\\",
+        "outputPath": "C:\\Repos\\Projects\\Paths\\freecodecamp\\src\\freecodecamp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dad\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\freecodecamp.csproj.AssemblyReference.cache
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\freecodecamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\freecodecamp.AssemblyInfoInputs.cache
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\freecodecamp.AssemblyInfo.cs
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\freecodecamp.csproj.CoreCompileInputs.cache
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\bin\Debug\net7.0\freecodecamp.exe
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\bin\Debug\net7.0\freecodecamp.deps.json
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\bin\Debug\net7.0\freecodecamp.runtimeconfig.json
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\bin\Debug\net7.0\freecodecamp.dll
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\bin\Debug\net7.0\freecodecamp.pdb
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\freecodecamp.dll
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\refint\freecodecamp.dll
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\freecodecamp.pdb
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\freecodecamp.genruntimeconfig.cache
+C:\Repos\Projects\Paths\freecodecamp\src\freecodecamp\obj\Debug\net7.0\ref\freecodecamp.dll
