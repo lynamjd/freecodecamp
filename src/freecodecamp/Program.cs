@@ -6,6 +6,6 @@ public class Program
     {
         Console.WriteLine("Starting console app..");
 
-        Comments.Run();
+        FinalState.Run();
     }
 }
